@@ -10,7 +10,7 @@
   display: inline-block;
  }
 </style>
-<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+<clipboard-copy for="blob-path" class="button">
   Copy path
 </clipboard-copy>
 <div id="blob-path">https://werktisch.github.io/marp_theme/themes/werktisch.css</div>
