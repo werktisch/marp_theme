@@ -3,6 +3,6 @@
   Copy path
 </clipboard-copy>
 <div id="blob-path">https://werktisch.github.io/marp_theme/themes/werktisch.css</div>
-<script type="text/javascript">
+<script type="module">
   import githubClipboardCopyElement from "https://cdn.skypack.dev/@github/clipboard-copy-element";
 </script>
