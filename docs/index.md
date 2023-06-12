@@ -3,3 +3,4 @@
   Copy path
 </clipboard-copy>
 <div id="blob-path">https://werktisch.github.io/marp_theme/themes/werktisch.css</div>
+<script type="module" src="./node_modules/@github/clipboard-copy-element/dist/index.js">
