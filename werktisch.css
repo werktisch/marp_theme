@@ -1,0 +1,30 @@
+/**
+ * @theme werktisch
+ * @size 4:3 960px 720px
+ * @size 16:9 1280px 720px
+ * @size FHD 1920px 1080px
+ * @size 1:1 1280px 1280px
+ * @size HFHD 960px 1080px
+ */
+@import "uncover";
+
+section {
+    width: 1280px;
+    height: 720px;
+    font-family: "Helvetica", "Hiragino Kaku Gothic ProN";
+    cursor: url("images/laser_pointer-red.png"), pointer;
+}
+
+section.title {
+    font-weight: 600;
+    text-align: center;
+}
+
+section.title h1 {
+    font-size: 76px;
+}
+
+section.title p {
+    font-size: 50px;
+}
+
