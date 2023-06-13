@@ -12,7 +12,7 @@ section {
     width: 1280px;
     height: 720px;
     font-family: "Helvetica", "Hiragino Kaku Gothic ProN";
-    cursor: url("images/laser_pointer-red.png"), pointer;
+    cursor: url("https://werktisch.github.io/marp_theme/themes/images/laser_pointer-red.png"), pointer;
 }
 
 section.title {
