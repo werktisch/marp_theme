@@ -1,4 +1,3 @@
-# Themes for marp by Werktisch
 <script type="module">
   import githubClipboardCopyElement from "https://cdn.skypack.dev/@github/clipboard-copy-element";
 </script>
@@ -10,7 +9,13 @@
   display: inline-block;
  }
 </style>
-<clipboard-copy for="blob-path" class="button">
-  Copy path
-</clipboard-copy>
-<div id="blob-path">https://werktisch.github.io/marp_theme/themes/werktisch.css</div>
+
+# Themes for marp by Werktisch
+- オンラインでのハンズオンセミナー向けに 1:1 (1280px x 1280px) とFHDの半分 HFHD (960px x 1080px)を定義
+- Mac向けにフォントをHelveticaとヒラギノ角ゴシックを指定
+<div>
+  <span id="blob-path">https://werktisch.github.io/marp_theme/themes/werktisch.css</span>
+  <clipboard-copy for="blob-path" class="button" role="button">
+    Copy
+  </clipboard-copy>
+</div>
