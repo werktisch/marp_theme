@@ -38,15 +38,23 @@ section.split {
         "leftpanel rightpanel";
 }
 /* debug */
-section.split h3, 
-section.split .ldiv, 
-section.split .rdiv { border: 1.5pt dashed dimgray; }
+section.split h2,
+section.split .ldiv,
+section.split .rdiv {
+    border: 1.5pt dashed dimgray;
+}
+
 section.split h3 {
     grid-area: slideheading;
     font-size: 50px;
 }
-section.split .ldiv { grid-area: leftpanel; }
-section.split .rdiv { grid-area: rightpanel; }
+
+section.split .ldiv {
+    grid-area: leftpanel;
+}
+section.split .rdiv {
+    grid-area: rightpanel;
+}
 
 li {
     font-size: 50px;
