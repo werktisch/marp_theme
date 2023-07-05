@@ -56,6 +56,6 @@ section.split .rdiv {
     grid-area: rightpanel;
 }
 
-li {
+li p {
     font-size: 50px;
 }
